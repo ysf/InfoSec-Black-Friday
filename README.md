@@ -181,6 +181,10 @@ Hacker House (Hands on Hacking) :see_no_evil:\
 https://hacker.house/training/ \
 35% discount with code: HACKFRIDAY
 
+INE Security Trainings (former eLearnSecurity)
+https://ine.com/pages/black-friday-2020
+40% discount with code: BF40
+
 ## Services:
 
 ProtonMail\
